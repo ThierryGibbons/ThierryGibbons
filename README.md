@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thierry (teyehree)</h1>
 <h3 align="center">I am a student studying Front end Development.</h3>
 
-<p align="left"> <a href="https://twitter.com/lehsssvr" target="blank"><img src="https://img.shields.io/twitter/follow/lehsssvr?logo=twitter&style=for-the-badge" alt="lehsssvr" /></a> </p>
+<p align="left"> <a href="https://twitter.com/teyehree" target="blank"><img src="https://img.shields.io/twitter/follow/lehsssvr?logo=twitter&style=for-the-badge" alt="lehsssvr" /></a> </p>
 
 - 🔭 I’m currently working on [CS102 Assignment](https://github.com/ThierryGibbons/CS102-Assignment)
 
