@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thierry (teyehree)</h1>
-<h3 align="center">Just another Computer Science.</h3>
-
-<p align="left"> <a href="https://twitter.com/teyehree" target="blank"><img src="https://img.shields.io/twitter/follow/lehsssvr?logo=twitter&style=for-the-badge" alt="teyehree" /></a> </p>
+<h3 align="center">Just another Computer Science Student.</h3>
 
 - 🔭 I’m currently working on [Ordering System](https://github.com/ThierryGibbons/Ordering-System)
 
