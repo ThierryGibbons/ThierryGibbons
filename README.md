@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thierry (teyehree)</h1>
 <h3 align="center">Just another Computer Science Student.</h3>
 
-- 🔭 I’m currently working on assignments
+- 🔭 I’m currently working on a small project for an assignment [Earthquake Monitor NZ](https://github.com/naomuhibu/EMSystem)
 
 - 🌱 I’m currently learning more about **VR** because uni has an assignement on it, chur.
 
